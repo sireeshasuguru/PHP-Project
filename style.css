@@ -1,0 +1,17 @@
+body {
+    background-color: #f2f4f6;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
